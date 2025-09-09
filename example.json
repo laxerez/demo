@@ -5,10 +5,3 @@
     "id": 12345
   }
 }
-{
-    "api_version": "1.0.1",
-    "data": {
-        "name": "Example User",
-        "id": 12345
-    }
-}
